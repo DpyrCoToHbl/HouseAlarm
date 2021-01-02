@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 66e60c0c38d52cf4383abba4a017aadd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2679979816362732633
+    second: Ambient_Tileset_0
+  - first:
+      213: -5600489484400873640
+    second: Ambient_Tileset_1
+  - first:
+      213: 787625682977766954
+    second: Ambient_Tileset_2
+  - first:
+      213: 3733212180989737519
+    second: Ambient_Tileset_3
+  - first:
+      213: -5383687915928754115
+    second: Ambient_Tileset_4
+  - first:
+      213: 3405834242489477305
+    second: Ambient_Tileset_5
+  - first:
+      213: 5972570183385606463
+    second: Ambient_Tileset_6
+  - first:
+      213: 3933228929137332484
+    second: Ambient_Tileset_7
+  - first:
+      213: -8437740593191430077
+    second: Ambient_Tileset_8
+  - first:
+      213: 3958377676798749354
+    second: Ambient_Tileset_9
+  - first:
+      213: -3656519870882019459
+    second: Ambient_Tileset_10
+  - first:
+      213: 2272523791976358612
+    second: Ambient_Tileset_11
+  - first:
+      213: 2808124704603419020
+    second: Ambient_Tileset_12
+  - first:
+      213: 5310425463253757812
+    second: Ambient_Tileset_13
+  - first:
+      213: -203242792183463183
+    second: Ambient_Tileset_14
+  - first:
+      213: 2174462088399627428
+    second: Ambient_Tileset_15
+  - first:
+      213: -5496565876471644294
+    second: Ambient_Tileset_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ambient_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 520
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c648f9173313520800000000000000
+      internalID: 2679979816362732633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient_Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 465
+        width: 293
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fa9f19c701742b0800000000000000
+      internalID: -5600489484400873640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient_Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 422
+        width: 133
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485ee3b2af17ea80800000000000000
+      internalID: -8437740593191430077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 426
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaec60568bfee630800000000000000
+      internalID: 3958377676798749354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778bedec8e614dc0800000000000000
+      internalID: -3656519870882019459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient_Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 390
+        width: 305
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2ef543950a98f10800000000000000
+      internalID: 2272523791976358612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient_Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 366
+        width: 157
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b2ee6a8678f620800000000000000
+      internalID: 2808124704603419020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient_Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 331
+        width: 141
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fed6fa2db62b940800000000000000
+      internalID: 5310425463253757812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient_Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 256
+        width: 307
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f20fb0e1cfed2df0800000000000000
+      internalID: -203242792183463183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambient_Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 9
+        width: 305
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fbf58157648b3b0800000000000000
+      internalID: -5496565876471644294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
